@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+
+}
+
+nav  {
+  text-align: center;
+  overflow: block;
+  background-color: black;
+  color: antiquewhite;
+  padding: 40px 60px;
+}
+
+nav a {
+  text-decoration: none;
+  text-align: center;
+  padding: 20px 60px;
+  font-size: 60px;
+}
+
+.gifright {
+  width: 2%;
+}
+
+nav a:hover {
+  background-color: greenyellow;
+  color: black;
+  padding: 20px 60px;
+}
+
+main {
+  
+  background-color: greenyellow;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: garamond;
+  text-align: center;
+}
+
+h2 {
+  font-size: 35px;
+  font-family: garamond;
+  text-align: center;
+}
+footer {
+  text-align: center;
+  color: antiquewhite;
+  background-color: black;
+  padding: 10px 10px;
+  font-size: 15px;
+}
